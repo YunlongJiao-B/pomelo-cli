@@ -20,7 +20,7 @@
     "async": "0.1.0",
     "cliff": "0.1.8",
     "optimist": "0.6.0",
-    "pomelo-admin": "github:YunlongJiao-B/pomelo-admin#0.4.x",
+    "pomelo-admin": "github:YunlongJiao-B/pomelo-admin#old",
     "pomelo-logger": "0.0.3"
   },
   "author": "fantasyni",
