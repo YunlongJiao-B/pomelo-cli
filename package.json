@@ -17,11 +17,11 @@
     "pomelo-cli": "./bin/pomelo-cli"
   },
   "dependencies": {
-    "optimist": ">=0.6.0",
+    "async": ">=0.1.0",
     "cliff": ">=0.1.8",
-    "pomelo-admin": "0.4.x",
-    "pomelo-logger": ">=0.0.3",
-    "async": ">=0.1.0"
+    "optimist": ">=0.6.0",
+    "pomelo-admin": "github:YunlongJiao-B/pomelo-admin#0.4.x",
+    "pomelo-logger": ">=0.0.3"
   },
   "author": "fantasyni",
   "license": "MIT"
