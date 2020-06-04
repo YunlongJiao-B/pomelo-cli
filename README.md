@@ -6,9 +6,9 @@
        srm serverid
        该命令会从connector中软删除（内存中删除 对应的server id）
 node 8 版本以上
-       npm install -g YunlongJiao-B/pomelo-admin
+       npm install -g YunlongJiao-B/pomelo-cli
 node 4.x 安装
-       npm install -g YunlongJiao-B/pomelo-admin#0.4.x
+       npm install -g YunlongJiao-B/pomelo-cli#0.4.x
 
 pomelo-cli
 ========
