@@ -1,12 +1,26 @@
+
+2020-06-04
+================================================
+更新：
+   命令 
+       srm serverid
+       该命令会从connector中软删除（内存中删除 对应的server id）
+node 8 版本以上
+       npm install -g YunlongJiao-B/pomelo-admin
+node 4.x 安装
+       npm install -g YunlongJiao-B/pomelo-admin#0.4.x
+
 pomelo-cli
 ========
+
+
 
 pomelo-cli is a command-line tool for [pomelo](https://github.com/NetEase/pomelo).  
 you can use pomelo-cli to connect to pomelo master and do lots of things.
 
 ##Installation
 ```
-npm install -g pomelo-cli
+npm install -g YunlongJiao-B/pomelo-admin
 ```
 ##Usage
 Use pomelo-cli to connect to pomelo master  
